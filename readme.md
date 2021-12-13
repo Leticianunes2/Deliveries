@@ -15,7 +15,7 @@ Este app de deliveries tem como objetivo cadastrar entregas dos clientes, listar
 
 ## Técnologias utilizadas
 
-O projeto foi desenvolvido utilisando as seguintes técnologias:
+O projeto foi desenvolvido utilizando as seguintes técnologias:
 
 - node.js
 - Visual Studio Code
