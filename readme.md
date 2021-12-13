@@ -1,21 +1,21 @@
 # Desafio_Deliveries
 
-
 Este projeto tem como objetivo colocar em prática meus conhecimentos.
 
 ## Projeto
+
 Este app de deliveries tem como objetivo cadastrar entregas dos clientes, listar as entregas e exclui-las.
 
 ## Requisitos
+
 - Cadastrar as entregas
 - Listar as entregas
 - Limpar o formulário 
 - excluir entregas
 
-
 ## Técnologias utilizadas
 
-O projeto foi desenvolvido usando as seguintes tecnologias:
+O projeto foi desenvolvido utilisando as seguintes técnologias:
 
 - node.js
 - Visual Studio Code
@@ -27,7 +27,7 @@ O projeto foi desenvolvido usando as seguintes tecnologias:
 - npm install
 - npm start
 
-Foi desenvolvido por Leticia Nunes
+Foi desenvolvido por Leticia Nunes.
 
 
 
